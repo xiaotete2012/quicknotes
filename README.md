@@ -27,7 +27,7 @@ QuickNotes是一个简单高效的命令行笔记工具，让您可以快速记�
 ## 📦 安装指南
 
 ### 方法1：源码运行# 克隆仓库
-git clone https://github.com/yourusername/quicknotes.git
+git clone https://github.com/xiaotete2012/quicknotes.git
 cd quicknotes
 
 # 安装依赖
